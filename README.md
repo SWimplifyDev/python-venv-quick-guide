@@ -90,7 +90,7 @@ deactivate
 ![image 14](/images/14.png)
 
 ### Need Help or Have Questions?
-f you encounter any issues while following this guide or if you're using a different operating system and need tailored instructions, don't hesitate to reach out. Our team is here to assist you on your coding journey.
+If you encounter any issues while following this guide or if you're using a different operating system and need tailored instructions, don't hesitate to reach out. Our team is here to assist you on your coding journey.
 #### Contact Information:
 * Website: [SWimplify](https://swimplify.co)
 * Email: info.swimplify@gmail.com
