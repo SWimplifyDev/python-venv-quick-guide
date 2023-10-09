@@ -12,8 +12,10 @@ Ready to unlock the full potential of Python in your projects? Let's get started
 
 ### Before You Begin: Requirements
 Before you dive into this guide, make sure you have the following:
-* Python Installed:
-Ensure you have Python installed on your system. You can download it from the official [python](https://www.python.org) website.
+* **Python Installed:** Ensure you have Python installed on your system. You can download it from the official [python](https://www.python.org) website.
+* **Terminal or Command Prompt:** Familiarize yourself with your system's terminal or command prompt. This guide assumes you have a basic understanding of using the command line.
+* **Text Editor:** Have a text editor of your choice installed for writing and editing Python code. Popular choices include Visual Studio Code, Sublime Text, or Atom.
+* **A Sense of Adventure:** Approach this guide with curiosity and a willingness to explore. Coding is an adventure, and every challenge is an opportunity to learn!
 
 ## 1. Choose Your Python Playground
 Open your terminal and navigate to the directory where you're going to create your Python project.
