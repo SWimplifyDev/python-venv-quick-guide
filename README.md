@@ -63,6 +63,7 @@ touch main.py
 ```
 ![image 10](/images/10.png)
 ![image 11](/images/11.png)
+
 Open main.py with a text editor and let your creativity flow and fill it with code!
 ```python
 import pyjokes
@@ -71,10 +72,27 @@ print(pyjokes.get_joke())
 
 ```
 ![image 12](/images/12.png)
+
 Save changes.
 
-## 9 Let the Laughter Begin
+## 9. Let the Laughter Begin
 Fire up your terminal and run your script:
 ```console
 python main.py
 ```
+![image 13](/images/13.png)
+
+## 10. Exit Your Coding Oasis
+When you're done for the day, deactivate your virtual environment. You'll know it's done when (.venv) disappears from your terminal:
+```console
+deactivate
+```
+![image 14](/images/14.png)
+
+### Need Help or Have Questions?
+f you encounter any issues while following this guide or if you're using a different operating system and need tailored instructions, don't hesitate to reach out. Our team is here to assist you on your coding journey.
+#### Contact Information:
+* Website: [SWimplify](https://swimplify.co)
+* Email: info.swimplify@gmail.com
+
+Feel free to drop us a message, and we'll get back to you as soon as possible. Happy coding!
