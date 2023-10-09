@@ -10,6 +10,11 @@ In this step-by-step guide, we'll walk you through the process of creating a vir
 
 Ready to unlock the full potential of Python in your projects? Let's get started on this exciting journey!
 
+### Before You Begin: Requirements
+Before you dive into this guide, make sure you have the following:
+* Python Installed:
+Ensure you have Python installed on your system. You can download it from the official [python](https://www.python.org) website.
+
 ## 1. Choose Your Python Playground
 Open your terminal and navigate to the directory where you're going to create your Python project.
 ![image 1](/images/01.png)
